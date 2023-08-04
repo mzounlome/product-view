@@ -2,7 +2,6 @@
 
 import CardText from "./components/CardText";
 import Image from "next/image";
-import { borderRadius } from "@mui/system";
 import perfumeImage from "./images/image-product-desktop.jpg";
 import styles from "./page.module.css";
 
