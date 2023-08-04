@@ -1,4 +1,3 @@
-import { color } from "@mui/system";
 import styled from "styled-components";
 
 export const CardTextDiv = styled.div`
@@ -16,6 +15,9 @@ export const CardTextDiv = styled.div`
 export const CardTitle = styled.h2`
   color: #9a9c9d;
   font-size: 1.5rem;
+  @media (max-width: 700px) {
+    font-size: 0.5rem;
+  }
 `;
 
 export const CardHeader = styled.h1`
