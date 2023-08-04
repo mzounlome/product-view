@@ -18,6 +18,7 @@ export default function CardText() {
         A floral, solar and voluptuous interpretation composed by Olivier Polge,
         Perfumer-Creator for the house of CHANEL
       </CardParagraph>
+      <h1>PUSh</h1>
       <PriceDiv>
         <NewPrice>$149.99</NewPrice>
         <OldPrice>$169.99</OldPrice>
